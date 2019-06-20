@@ -12,5 +12,7 @@ class Dog
     @name = new_name
   end
 
-  def
+  def breed
+    @breed
+  end
 end
